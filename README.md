@@ -1,33 +1,35 @@
-Minimal Viable Plasma:
-https://ethresear.ch/t/minimal-viable-plasma/426
+## Minimal Viable Plasma:
+1. https://ethresear.ch/t/minimal-viable-plasma/426
 
-More Viable Plasma:
-https://ethresear.ch/t/more-viable-plasma/2160
+## More Viable Plasma:
+1. https://ethresear.ch/t/more-viable-plasma/2160
 
-RSA Acuumulators: https://ethresear.ch/t/rsa-accumulators-for-plasma-cash-history-reduction/3739
+## Plasma Cash:
+1. https://ethresear.ch/t/plasma-xt-plasma-cash-with-much-less-per-user-data-checking/1926
 
-Plasma Cash:
-https://ethresear.ch/t/plasma-xt-plasma-cash-with-much-less-per-user-data-checking/1926
+2. https://ethresear.ch/t/plasma-cash-was-a-transaction-format/4261
 
-https://ethresear.ch/t/plasma-cash-was-a-transaction-format/4261
+3. https://ethresear.ch/t/plasma-cash-plasma-with-much-less-per-user-data-checking/1298
 
-https://ethresear.ch/t/plasma-cash-plasma-with-much-less-per-user-data-checking/1298
+4. https://ethresear.ch/t/plasma-cash-minimal-atomic-swap/3409
 
-https://ethresear.ch/t/plasma-cash-minimal-atomic-swap/3409
+5. https://ethresear.ch/t/plasma-cash-defragmentation/3410
 
-https://ethresear.ch/t/plasma-cash-defragmentation/3410
+## Plasma Leap:
+1. https://ethresear.ch/t/plasma-leap-a-state-enabled-computing-model-for-plasma/3539
 
-Plasma Leap:
-https://ethresear.ch/t/plasma-leap-a-state-enabled-computing-model-for-plasma/3539
+## Plasma Debit:
+1. https://ethresear.ch/t/plasma-debit-arbitrary-denomination-payments-in-plasma-cash/2198
 
-Plasma Debit:
-https://ethresear.ch/t/plasma-debit-arbitrary-denomination-payments-in-plasma-cash/2198
+## Plasma Cashflow:
+1. https://hackmd.io/DgzmJIRjSzCYvl4lUjZXNQ?view#Introduction
 
-Plasma Cashflow:
-https://hackmd.io/DgzmJIRjSzCYvl4lUjZXNQ?view#Introduction
+## RSA Acuumulators: 
 
-Plasma Prime:
-https://ethresear.ch/t/plasma-prime-design-proposal/4222
+1. https://ethresear.ch/t/rsa-accumulators-for-plasma-cash-history-reduction/3739
 
-SNARK Plasma:
-https://ethresear.ch/t/plasma-is-plasma/2195# awesome-plasma
+## Plasma Prime:
+1. https://ethresear.ch/t/plasma-prime-design-proposal/4222
+
+## SNARK Plasma:
+1. https://ethresear.ch/t/plasma-is-plasma/2195
