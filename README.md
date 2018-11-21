@@ -24,7 +24,7 @@
 ## Plasma Cashflow:
 1. https://hackmd.io/DgzmJIRjSzCYvl4lUjZXNQ?view#Introduction
 
-## RSA Acuumulators: 
+## RSA accumulators: 
 
 1. https://ethresear.ch/t/rsa-accumulators-for-plasma-cash-history-reduction/3739
 
